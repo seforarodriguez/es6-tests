@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha tests"
+    "test": "mocha --harmony_destructuring tests"
   },
   "repository": {
     "type": "git",
